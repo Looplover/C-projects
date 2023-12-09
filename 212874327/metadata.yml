@@ -1,0 +1,18 @@
+---
+:id: 212874327
+:submitters:
+- :name: Akshat Singhal
+  :email: cs1221640@cse.iitd.ac.in
+- :name: Shrenik Sakala
+  :email: mt1221920@maths.iitd.ac.in
+- :name: Ashmit Nangia
+  :email: ee1221989@iitd.ac.in
+- :name: Shivaani Hari
+  :email: mt1221273@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-15 16:28:45.881013000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-15 08:28:45.881013000 Z
+:status: processed
+:score: 50.0
