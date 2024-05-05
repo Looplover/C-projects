@@ -1,0 +1,2 @@
+QnA tool that takes queries and parses a database(like books) to return related answers ranked based on relevance, popularity etc..
+It also used Chat GPT API to give coherenrent asnwers to the asked queries based on the provided dataset(like books).
